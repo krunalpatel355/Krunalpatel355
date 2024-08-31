@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalpatel355&label=Profile%20views&color=0e75b6&style=flat" alt="krunalpatel355" /> </p>
 
-- 🌱 I’m currently learning **Django , react , HFDS**
+- 🌱 I’m currently learning **Django , react , SPARK , HADOOP**
 
 - 📫 How to reach me **krunalpatel35538@gmail.com**
 
